@@ -12,6 +12,7 @@
 /captures
 .externalNativeBuild
 .cxx
+/.idea/vcs.xml
 local.properties
 
 # Project exclude paths
